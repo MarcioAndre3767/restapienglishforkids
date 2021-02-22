@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Marcio Mendes",
+      "email": "mendes@gmail.com",
+      "xp": 0,
+      "highscore": 0 
+    }
+
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Families",
+      "image": "https://storage.googleapis.com/production-hostgator-brasil-v1-0-7/327/303327/BLt02taj/c7fc5779c8f94dca891d20cd95fc844d"
+    },
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": "https://i.pinimg.com/originals/e6/37/50/e63750400b60c7829d776784e51d70f1.jpg"
+    },
+    {
+      "name": "colors",
+      "image": "https://storage.googleapis.com/production-hostgator-brasil-v1-0-7/327/303327/BLt02taj/c7fc5779c8f94dca891d20cd95fc844d",
+      "id": 3
+    }
+  ]
+}
